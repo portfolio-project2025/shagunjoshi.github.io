@@ -20,12 +20,10 @@ body {
 }
 
 header {
-  background linear-gradient(135deg, #004d7a, #00aaff);
+background-color: #004d7a;
   color: white;
-  text-align: center;padding: 60px 20px;
-  padding: 60px 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  text-align: center;
+  padding: 40px 0;
 }
 
 
@@ -94,5 +92,6 @@ footer {
   background: #00aaff;
   transform: scale(1.1);
 }
+
 
 
